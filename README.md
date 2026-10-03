@@ -105,11 +105,11 @@ Tenho interesse por **programação, robótica, eletrônica e tecnologia**, e es
 📚 **Manual do Recruta —**
 Site desenvolvido entre 2025 e 2026 como projeto de TCC, com o objetivo de auxiliar jovens na criação de currículos e na preparação para a entrada no mercado de trabalho.
 
-🥈 **Robô Sumô — R1t4 L33**
-Participação na montagem e desenvolvimento do robô sumô **R1t4 L33**, atuando principalmente na área de **eletrônica**. A equipe conquistou o **2º lugar em 2024** na competição de Robótica.
+🥈 **Robô Sumô —**
+Montagem e desenvolvimento do robô sumô R1t4 L33, atuando na área de eletrônica. A equipe conquistou o 2º lugar em 2024 na competição de Robótica.
 
 🥈 **Desafio Híbrido —**
-Participação no **Desafio Híbrido**, atuando na **programação do robô** e no desenvolvimento da lógica necessária para sua execução. A equipe conquistou o **2º lugar em 2024** na competição.
+Atuando na programação do robô e no desenvolvimento da lógica necessária para sua execução. A equipe conquistou o 2º lugar em 2024 na competição.
 
 ---
 
